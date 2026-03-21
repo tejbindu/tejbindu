@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### Hand coded projects
 
 ### Vibe coded projects 
-1. [Dhvani: A terminal based music player written in Rust](https://github.com/tejbindu/dhvani)
-2. [Chatak: A terminal based tree-style file manager written in Rust](https://github.com/tejbindu/chatak)
+1. 🎵 [Dhvani: A terminal based music player written in Rust](https://github.com/tejbindu/dhvani)
+2. 📁 [Chatak: A terminal based tree-style file manager written in Rust](https://github.com/tejbindu/chatak)
 
