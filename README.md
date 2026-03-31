@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ### Vibe coded projects 
 1. 🎵 [Dhvani: A terminal based music player written in Rust](https://github.com/tejbindu/dhvani)
 2. 📁 [Chatak: A terminal based tree-style file manager written in Rust](https://github.com/tejbindu/chatak)
+3. 📧 [Tapal: A terminal based email client written in Rust](https://github.com/tejbindu/tapal)
 
