@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### Hand coded projects
 1. ⚛️ [Quantum Playground: A educational webapp to simulate quantum circuits and stabilizer formalism](https://github.com/tejbindu/quantum-playground)
 ### Vibe coded projects 
-1. 🎵 [Dhvani: A terminal based music player written in Rust](https://github.com/tejbindu/dhvani)
-2. 📁 [Chatak: A terminal based tree-style file manager written in Rust](https://github.com/tejbindu/chatak)
-3. 📧 [Tapal: A terminal based email client written in Rust](https://github.com/tejbindu/tapal)
+1. 🤖 [Agentic Search: LLM-powered web search](https://github.com/tejbindu/agentic_search)
+2. 🎵 [Dhvani: A terminal based music player written in Rust](https://github.com/tejbindu/dhvani)
+3. 📁 [Chatak: A terminal based tree-style file manager written in Rust](https://github.com/tejbindu/chatak)
+4. 📧 [Tapal: A terminal based email client written in Rust](https://github.com/tejbindu/tapal)
 
